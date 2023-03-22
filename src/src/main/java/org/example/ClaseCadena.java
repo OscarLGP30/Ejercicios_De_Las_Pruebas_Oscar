@@ -102,4 +102,23 @@ public class ClaseCadena {
         } while (i < j);
         return iniciales;
     }
+
+    //Si el método recibe un argumento esta vacio, debe devolver null.
+
+    public String DevuelveIniciales11(String cadena) {
+        if (cadena.isEmpty()) {
+            return null;
+        }
+        String[] palabras = cadena.split(" ");
+        String iniciales = "";
+        int i = 0, j = palabras.length;
+        do {
+            iniciales += palabras[i].charAt(0);
+            i++;
+        } while (i < j);
+        return iniciales;
+    }
+
+
+
 }

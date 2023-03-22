@@ -16,5 +16,6 @@ public class Main {
         System.out.println(cadena.DevuelveIniciales8("Sara Perez Gil"));
         System.out.println(cadena.DevuelveIniciales9("Hector Hevia Perez"));
         System.out.println(cadena.DevuelveIniciales10("David Hevia Perez"));
+        System.out.println(cadena.DevuelveIniciales11(""));
     }
 }
