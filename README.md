@@ -1,6 +1,6 @@
 # Ejercicios_De_Las_Pruebas_Oscar
 
-Mi Repositorio:
+Mi Repositorio: https://github.com/OscarLGP30/Ejercicios_De_Las_Pruebas_Oscar.git
 
 1. Enunciado
  Debe escribir:
